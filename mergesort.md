@@ -35,5 +35,5 @@ Merge Sort is a highly efficient, comparison-based, divide-and-conquer sorting a
 Merge Sort is a highly efficient sorting algorithm with a consistent O(n log n) time complexity. However, it requires extra memory space and is not an in-place algorithm. It is well-suited for large datasets where time efficiency is more important than memory usage.
 
 ## Best_Resource
-[Youtube_video pt-1](https://youtu.be/TzeBrDU-JaY?si=vjE6OajeBVkwOsf0)
-[Youtube_video pt-2](https://youtu.be/0nlPxaC2lTw?si=p08_O0cYvdhQ_k5X)
+- [Youtube_video part-1](https://youtu.be/TzeBrDU-JaY?si=vjE6OajeBVkwOsf0)
+- [Youtube_video part-2](https://youtu.be/0nlPxaC2lTw?si=p08_O0cYvdhQ_k5X)
