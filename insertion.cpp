@@ -8,7 +8,7 @@ for(int i=1;i<s;i++){
     int ins=arr[i];
     int j;
 // Shift elements to the right until the correct position is found
-    for(j=i-1;ins<arr[j] && j>=0;j--){
+    for(j=i-1; j>=0 && ins<arr[j] ;j--){
         arr[j+1]=arr[j];
     }
         arr[j+1]=ins;
