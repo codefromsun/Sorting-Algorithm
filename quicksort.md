@@ -36,5 +36,5 @@ Quick Sort is an efficient, comparison-based, divide-and-conquer sorting algorit
 Quick Sort is a highly efficient sorting algorithm with an average-case time complexity of O(n log n), making it suitable for large datasets. However, it is not stable and can have a worst-case time complexity of O(n²), which can be mitigated by using different pivot selection strategies (like random pivoting).
 
 ## Best Resource
-For [YouTube Video pt-1](https://youtu.be/COk73cpQbFQ?si=SEnOBJaLl1ZZSLqr).
-For [YouTube Video pt-2](https://youtu.be/3Bbm3Prd5Fo?si=n1rJ0smb_94CM1RU).
+- [YouTube Video part-1](https://youtu.be/COk73cpQbFQ?si=SEnOBJaLl1ZZSLqr).
+- [YouTube Video part-2](https://youtu.be/3Bbm3Prd5Fo?si=n1rJ0smb_94CM1RU).
